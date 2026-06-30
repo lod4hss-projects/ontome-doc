@@ -1,3 +1,4 @@
+- [Home](/)
 - Getting started
     - [Description](description.md)
 - Namespaces
