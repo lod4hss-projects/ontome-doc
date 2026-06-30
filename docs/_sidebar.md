@@ -2,4 +2,4 @@
     - [Description](description.md)
 - Namespaces
     - [Imports](imports.md)
-    - [URI spscifications](uris.md)
+    - [URI specifications](uris.md)
