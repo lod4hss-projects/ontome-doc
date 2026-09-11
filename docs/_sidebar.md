@@ -1,6 +1,8 @@
 - [Home](/)
 - Getting started
     - [Description](description.md)
+- Manage your account
+    - [Create an account](manage_account/create.md)
 - Namespaces
     - [Imports](imports.md)
     - [URI specifications](uris.md)
