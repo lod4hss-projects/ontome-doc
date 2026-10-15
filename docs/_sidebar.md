@@ -5,4 +5,5 @@
     - [Create an account](manage_account/create.md)
 - Namespaces
     - [Imports](imports.md)
+    - [Exports](exports.md)
     - [URI specifications](uris.md)
