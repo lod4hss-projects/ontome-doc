@@ -17,7 +17,7 @@ The URI generation method is defined in the root namespace settings, under the *
 OntoME offers four types of exports:
 
 - **RDFS**: a standard export without inverse properties, using standard URIs.
-- **RDFS with inverse properties**: an export that includes inverse properties and uses specific URIs.
+- **RDFS for CIDOC CRM**: an export that includes inverse properties and uses specific URIs.
 - **OWL-DL**: a complete OWL export using standard URIs.
 - **OWL-WissKI**: an OWL export designed for use with WissKI. It includes references that allow WissKI to retrieve the ontologies it depends on.
 
